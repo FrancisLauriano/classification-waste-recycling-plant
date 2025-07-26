@@ -136,6 +136,8 @@ Faça o download diretamente do Kaggle:
 > 
 > A apresentação da Análise do Dataset encontra-se em [`./docs/Etapa_01_Apresetacao.pdf`](./docs/Etapa_01_Apresetacao.pdf).
 
+<br>
+
 ### ✅ **ATIV-04-ET-02 — Pesquisa de Métodos + Propostas**
 - ✔️ Implementar e testar métodos da literatura (disponíveis no próprio Kaggle e outros artigos).
 - ✔️ Propor melhorias, como:
@@ -146,6 +148,7 @@ Faça o download diretamente do Kaggle:
 > 📄 **Notebook:**  
 > Análise de métodos da literatura e propor ideias para métodos próprios encontra-se em [`./docs/Etapa_02_metodos_da_literatura_e_ideias_para_metodos_proprios.pdf`](./docs/Etapa_02_metodos_da_literatura_e_ideias_para_metodos_proprios.pdf).
 
+<br>
 
 ### ✅ **ATIV-04-ET-03 — Metodologia, Resultados e Conclusões**
 - ✔️ Documentar a metodologia adotada.
