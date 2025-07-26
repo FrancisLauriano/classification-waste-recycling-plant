@@ -133,6 +133,7 @@ Faça o download diretamente do Kaggle:
   
 > 📄 **Notebook:**  
 > Análise do Dataset encontra-se em [`./notebooks/Etapa-1_WaRP_Dataset_Analysis.ipynb`](./notebooks/Etapa-1_WaRP_Dataset_Analysis.ipynb).
+> 
 > A apresentação da Análise do Dataset encontra-se em [`./docs/Etapa_01_Apresetacao.pdf`](./docs/Etapa_01_Apresetacao.pdf).
 
 ### ✅ **ATIV-04-ET-02 — Pesquisa de Métodos + Propostas**
