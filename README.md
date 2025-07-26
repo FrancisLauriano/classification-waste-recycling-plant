@@ -36,7 +36,7 @@
   - [3️⃣ Crie um ambiente virtual:](#3️⃣-crie-um-ambiente-virtual)
   - [4️⃣ Ative o ambiente virtual:](#4️⃣-ative-o-ambiente-virtual)
   - [5️⃣ Instale as dependências:](#5️⃣-instale-as-dependências)
-  - [6️⃣ Execute os notebooks ou scripts na pasta `/notebooks` ou `/src`.](#6️⃣-execute-os-notebooks-ou-scripts-na-pasta-notebooks-ou-src)
+  - [6️⃣ Execute os notebooks ou scripts na pasta `/notebooks`.](#6️⃣-execute-os-notebooks-ou-scripts-na-pasta-notebooks)
 - [🔧 Tecnologias e Bibliotecas](#-tecnologias-e-bibliotecas)
 - [👥 Squad](#-squad)
 - [📜 Licença](#-licença)
@@ -243,7 +243,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 6️⃣ Execute os notebooks ou scripts na pasta `/notebooks` ou `/src`.
+### 6️⃣ Execute os notebooks ou scripts na pasta `/notebooks`.
 
 ---
 
