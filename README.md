@@ -27,7 +27,6 @@
   - [✅ **ATIV-04-ET-01 — Análise do Dataset**](#-ativ-04-et-01--análise-do-dataset)
   - [✅ **ATIV-04-ET-02 — Pesquisa de Métodos + Propostas**](#-ativ-04-et-02--pesquisa-de-métodos--propostas)
   - [✅ **ATIV-04-ET-03 — Metodologia, Resultados e Conclusões**](#-ativ-04-et-03--metodologia-resultados-e-conclusões)
-- [📌 Gestão e Progresso do Projeto](#-gestão-e-progresso-do-projeto)
 - [🧠 Pipeline do Projeto](#-pipeline-do-projeto)
 - [📑 Metodologia](#-metodologia)
 - [📈 Métricas de Avaliação](#-métricas-de-avaliação)
@@ -131,6 +130,10 @@ Faça o download diretamente do Kaggle:
 - ✔️ Avaliar qualidade das imagens.
 - ✔️ Analisar distribuição das classes.
 - ✔️ Identificar e tratar imagens duplicadas.
+  
+> 📄 **Notebook:**  
+> Análise do Dataset encontra-se em [`./notebooks/Etapa-1_WaRP_Dataset_Analysis.ipynb`](./notebooks/Etapa-1_WaRP_Dataset_Analysis.ipynb).
+> A apresentação da Análise do Dataset encontra-se em [`./docs/Etapa_01_Apresetacao.pdf`](./docs/Etapa_01_Apresetacao.pdf).
 
 ### ✅ **ATIV-04-ET-02 — Pesquisa de Métodos + Propostas**
 - ✔️ Implementar e testar métodos da literatura (disponíveis no próprio Kaggle e outros artigos).
@@ -139,28 +142,23 @@ Faça o download diretamente do Kaggle:
   - Arquiteturas mais leves e rápidas.
   - Redução do conjunto de treino mantendo a performance.
 
+> 📄 **Notebook:**  
+> Análise de métodos da literatura e propor ideias para métodos próprios encontra-se em [`./docs/Etapa_02_metodos_da_literatura_e_ideias_para_metodos_proprios.pdf`](./docs/Etapa_02_metodos_da_literatura_e_ideias_para_metodos_proprios.pdf).
+
+
 ### ✅ **ATIV-04-ET-03 — Metodologia, Resultados e Conclusões**
 - ✔️ Documentar a metodologia adotada.
 - ✔️ Comparar resultados entre modelos da literatura e modelos próprios.
 - ✔️ Apresentar tabelas, gráficos e métricas.
 - ✔️ Elaborar conclusões, aprendizados e sugestões de melhorias futuras.
 
+> 📄 **Notebook:**  
+> O Treinamento encontra-se em [`./notebooks/Etapa-3_ResNet50_WaRP_KFold_Augmentation_Undersampling_Class_weight_V2.ipynb`](./notebooks/Etapa-3_ResNet50_WaRP_KFold_Augmentation_Undersampling_Class_weight_V2.ipynb).
+
 <br>
 
 > 📄 **Nota:**  
 > O roteiro do Projeto do Bootcamp encontra-se em [`./docs/projeto-atividade-04.pdf`](./docs/projeto-atividade-04.pdf).
-
----
-
-## 📌 Gestão e Progresso do Projeto
-
-Acompanhe o planejamento, o progresso das atividades, etapas, prazos e status detalhado das tarefas acessando o Kanban do projeto.
-
-➡️ Acesse o arquivo [`KANBAN.md`](./KANBAN.md) para visualizar:  
-- ✅ Status das etapas e tarefas  
-- ✅ Responsáveis e prazos  
-- ✅ Entregáveis finais  
-- ✅ Progresso geral do projeto  
 
 ---
 
@@ -202,7 +200,7 @@ E --> F[Conclusões e Entregas]
 ### 1️⃣ Clone este repositório:
 
 ```bash
-git clone https://github.com/WaRP-Waste-Recycling-Plant/warp-waste-classification.git
+git clone https://github.com/FrancisLauriano/classification-waste-recycling-plant.git
 ```
 
 ### 2️⃣ Acesse a pasta do projeto:
