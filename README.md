@@ -162,6 +162,8 @@ Faça o download diretamente do Kaggle:
 
 > 📄 **Notebook:**  
 > O Treinamento encontra-se em [`./notebooks/Etapa-3_ResNet50_WaRP_KFold_Augmentation_Undersampling_Class_weight_V2.ipynb`](./notebooks/Etapa-3_ResNet50_WaRP_KFold_Augmentation_Undersampling_Class_weight_V2.ipynb).
+> 
+> A apresentação final do projeto encontra-se em [`./docs/Etapa_03_Apresetacao_final_projeto.pdf`](./docs/Etapa_03_Apresetacao_final_projeto.pdf).
 
 <br>
 
