@@ -267,6 +267,54 @@ pip install -r requirements.txt
 <table align="center">
   <tr>
     <td align="center">
+      <a href="https://www.linkedin.com/in/ana-sofia-moura-27b003248/">
+        <img src="https://avatars.githubusercontent.com/u/109629293?v=4" width="115px;" alt="Ana Sofia Profile Image"/><br>
+      </a>
+      <sub>
+          <b>Ana Sofia Moura</b>
+         </sub>
+    <br>
+        <a href="https://github.com/Sun-cs-Sol">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br>
+        <a href="https://www.linkedin.com/in/ana-sofia-moura-27b003248/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Elineison">
+        <img src="https://avatars.githubusercontent.com/u/153145464?v=4" width="115px;" alt="Elineison de Sousa Profile Image"/><br>
+      </a>
+      <sub>
+          <b>Elineison de Sousa</b>
+         </sub>
+    <br>
+        <a href="https://github.com/Elineison">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br>
+        <a href="https://www.linkedin.com/in/elineison-inacio-de-sousa/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/felipemiguel99/">
+        <img src="https://avatars.githubusercontent.com/u/140664219?v=4" width="115px;" alt="Felipe Miguel Profile Image"/><br>
+      </a>
+      <sub>
+          <b>Felipe Miguel</b>
+         </sub>
+    <br>
+        <a href="https://github.com/fpmiguels">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br>
+        <a href="https://www.linkedin.com/in/felipemiguel99/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+    </td>
+    <td align="center">
       <a href="https://www.linkedin.com/in/francis-lauriano-9b674a27b/">
         <img src="https://avatars.githubusercontent.com/u/130801505?v=4" width="115px;" alt="Francis Lauriano Profile Image"/><br>
       </a>
@@ -282,6 +330,71 @@ pip install -r requirements.txt
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
     </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/iza-francine/">
+        <img src="https://avatars.githubusercontent.com/u/212177943?v=4" width="115px;" alt="Iza Vieira Profile Image"/><br>
+      </a>
+      <sub>
+          <b>Iza Vieira</b>
+         </sub>
+    <br>
+        <a href="https://github.com/iza1603francine">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br>
+        <a href="https://www.linkedin.com/in/iza-francine/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/madelu-lopes-089388120/">
+        <img src="https://avatars.githubusercontent.com/u/176135579?v=4" width="115px;" alt="Madelu Lopes Profile Image"/><br>
+      </a>
+      <sub>
+          <b>Madelu Lopes</b>
+         </sub>
+    <br>
+        <a href="https://github.com/Mads8760">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br>
+        <a href="https://www.linkedin.com/in/madelu-lopes-089388120/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/mariana-angeli/">
+        <img src="https://avatars.githubusercontent.com/u/172328698?v=4" width="115px;" alt="Mariana Angeli Profile Image"/><br>
+      </a>
+      <sub>
+          <b>Mariana Angeli</b>
+         </sub>
+    <br>
+        <a href="https://github.com/marianaangeli">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br>
+        <a href="https://www.linkedin.com/in/mariana-angeli/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/rodrigo-rocha-19249170/">
+        <img src="https://avatars.githubusercontent.com/u/126805602?v=4" width="115px;" alt="Rodrigo Rocha Profile Image"/><br>
+      </a>
+      <sub>
+          <b>Rodrigo Rocha</b>
+         </sub>
+    <br>
+        <a href="https://github.com/Rodrigoldarocha">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br>
+        <a href="https://www.linkedin.com/in/rodrigo-rocha-19249170/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+    </td>
+    
   </tr>
 </table>
 
