@@ -94,7 +94,7 @@ Faça o download diretamente do Kaggle:
 
 ✅ **Opção 2 — Google Drive:**                                                  
 ➡️ O dataset já foi baixado do Kaggle e está disponível na pasta `/data` compartilhada no Google Drive do projeto, associado à conta:                            
-📧 `squadclassificacaodosresiduos@gmail.com`:                                                                                            
+📧 `squadclassificacaodosresiduos@gmail.com`                                                                                           
                                    
 ✔️ **Importante:** Esta pasta é mantida atualizada e sincronizada pelo squad, evitando a necessidade de realizar o download manual do Kaggle.                       
 
