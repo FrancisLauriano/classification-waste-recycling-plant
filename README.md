@@ -92,11 +92,15 @@ O dataset contém imagens categorizadas de resíduos recicláveis, incluindo pap
 Faça o download diretamente do Kaggle:                                                                                            
 🔗 [Warp Waste Recycling Plant Dataset](https://www.kaggle.com/datasets/parohod/warp-waste-recycling-plant-dataset)                                             
 
+<br>
+
 ✅ **Opção 2 — Google Drive:**                                                  
 ➡️ O dataset já foi baixado do Kaggle e está disponível na pasta `/data` compartilhada no Google Drive do projeto, associado à conta:                            
 📧 `squadclassificacaodosresiduos@gmail.com`                                                                                           
                                    
-✔️ **Importante:** Esta pasta é mantida atualizada e sincronizada pelo squad, evitando a necessidade de realizar o download manual do Kaggle.                       
+✔️ **Importante:** Esta pasta é mantida atualizada e sincronizada pelo squad, evitando a necessidade de realizar o download manual do Kaggle.      
+
+<br>
 
 ### 💻 Como usar os dados?                                                              
 ➡️ **Trabalhando localmente (VSCode ou JupyterLab):**                                                                                
