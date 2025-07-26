@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
 </p>
 
-<h1 align="center">♻️ WARP - WastWaste Recycling Plante Classification</h1>
+<h1 align="center">♻️ WARP - Waste Recycling Plant Classification</h1>
 
 ---
 
