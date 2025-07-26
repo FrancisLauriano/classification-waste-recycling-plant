@@ -254,7 +254,7 @@ pip install -r requirements.txt
   - Pandas
   - NumPy
   - Scikit-Learn
-  - TensorFlow ou PyTorch
+  - TensorFlow 
   - OpenCV
   - Matplotlib
   - Seaborn
