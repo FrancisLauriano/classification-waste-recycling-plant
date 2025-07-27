@@ -168,7 +168,7 @@ Faça o download diretamente do Kaggle:
 <br>
 
 > 📄 **Nota:**  
-> O roteiro do Projeto do Bootcamp encontra-se em [`./docs/projeto-atividade-04.pdf`](./docs/projeto-atividade-04.pdf).
+> O roteiro do Projeto do Bootcamp encontra-se em [`./docs/roteiro-projeto-atividade-04.pdf`](./docs/roteiro-projeto-atividade-04.pdf).
 
 ---
 
